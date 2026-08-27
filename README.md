@@ -15,9 +15,9 @@
 > _Add your deployed link here once hosted (Vercel / Netlify):_
 > **[https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app)**
 
-## 🎥 Demo Video
+## 🎥 Demo Picture
 
-> _Add your 1–2 minute walkthrough video link here._
+<img width="1917" height="1041" alt="Screenshot 2026-08-28 004023" src="https://github.com/user-attachments/assets/baa8d87f-7f1e-4d2c-bb54-129e6800dd00" />
 
 ---
 
