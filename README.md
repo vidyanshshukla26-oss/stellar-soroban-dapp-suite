@@ -12,8 +12,7 @@
 
 ## 🔗 Live Demo
 
-> _Add your deployed link here once hosted (Vercel / Netlify):_
-> **[https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app)**
+> **[https://stellar-soroban-dapp-suite.netlify.app]**
 
 ## 🎥 Demo Picture
 
